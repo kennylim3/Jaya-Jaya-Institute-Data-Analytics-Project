@@ -23,12 +23,6 @@ pip install pandas matplotlib seaborn sqlalchemy scikit-learn joblib numpy strea
 ## Business Dashboard
 Dashboard yang telah dibuat memuat visualisasi dari informasi-informasi berupa jumlah dan persentase siswa, persebaran usia siswa, serta grafik performa siswa pada semester 1 dan 2.
 
-## Menjalankan Sistem Machine Learning
-Input data-data yang diminta, kemudian klik tombol predict. 
-
-```
-
-```
 
 ## Conclusion
 - Siswa yang dropout cenderung memiliki Admission_grade lebih rendah, berumur lebih tua, Curricular_units_1st_sem_enrolled lebih sedikit, Curricular_units_1st_sem_approved lebih sedikit, Curricular_units_1st_sem_grade lebih rendah, Curicular_units_2nd_sem_enrolled lebih sedikit, Curricular_units_2nd_sem_approved lebih sedikit, dan Curricular_units_2nd_sem_grade lebih rendah.
